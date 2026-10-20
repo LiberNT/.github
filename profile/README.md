@@ -18,9 +18,9 @@ And free, for everyone, every day.
 
 **A system that stays maintainable in the long run.**
 
-LiberNT is a fork of ReactOS with extensive changes to kernel-space components and drivers, aimed at stability and modern hardware. It should run on embedded devices too, and support every feature a modern operating system should have.
+LiberNT brings extensive work on kernel-space components and drivers, aimed at stability and modern hardware. It should run on embedded devices too, and support every feature a modern operating system should have.
 
-Windows 11 is the reference. We don't ask *“What did ReactOS do?”*
+Windows 11 is the reference. We don't guess.
 
 We ask:
 
