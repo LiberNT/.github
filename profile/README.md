@@ -1,6 +1,6 @@
 # ✦ LIBERNT
 
-<img width="2000" height="667" alt="LiberNT banner" src="https://raw.githubusercontent.com/LiberNT/.github/main/profile/libernt-logo.png" />
+<img width="2000" height="667" alt="LiberNT banner" src="https://raw.githubusercontent.com/LiberNT/.github/main/profile/libernt-banner.png" />
 
 > **THE FREE NT OPERATING SYSTEM.**
 
